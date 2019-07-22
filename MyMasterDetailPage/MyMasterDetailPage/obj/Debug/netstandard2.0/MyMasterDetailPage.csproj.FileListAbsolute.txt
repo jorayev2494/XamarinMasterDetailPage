@@ -1,0 +1,16 @@
+D:\MyXamarin\Practics\MyMasterDetailPage\MyMasterDetailPage\MyMasterDetailPage\bin\Debug\netstandard2.0\MyMasterDetailPage.deps.json
+D:\MyXamarin\Practics\MyMasterDetailPage\MyMasterDetailPage\MyMasterDetailPage\bin\Debug\netstandard2.0\MyMasterDetailPage.dll
+D:\MyXamarin\Practics\MyMasterDetailPage\MyMasterDetailPage\MyMasterDetailPage\bin\Debug\netstandard2.0\MyMasterDetailPage.pdb
+D:\MyXamarin\Practics\MyMasterDetailPage\MyMasterDetailPage\MyMasterDetailPage\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\MyXamarin\Practics\MyMasterDetailPage\MyMasterDetailPage\MyMasterDetailPage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\MyXamarin\Practics\MyMasterDetailPage\MyMasterDetailPage\MyMasterDetailPage\obj\Debug\netstandard2.0\Pages\FirstPage.xaml.g.cs
+D:\MyXamarin\Practics\MyMasterDetailPage\MyMasterDetailPage\MyMasterDetailPage\obj\Debug\netstandard2.0\Pages\FirstTabbedPage.xaml.g.cs
+D:\MyXamarin\Practics\MyMasterDetailPage\MyMasterDetailPage\MyMasterDetailPage\obj\Debug\netstandard2.0\Pages\MDP\MyMasterDetailPage.xaml.g.cs
+D:\MyXamarin\Practics\MyMasterDetailPage\MyMasterDetailPage\MyMasterDetailPage\obj\Debug\netstandard2.0\Pages\MDP\MyMasterDetailPageMaster.xaml.g.cs
+D:\MyXamarin\Practics\MyMasterDetailPage\MyMasterDetailPage\MyMasterDetailPage\obj\Debug\netstandard2.0\Pages\SecondPage.xaml.g.cs
+D:\MyXamarin\Practics\MyMasterDetailPage\MyMasterDetailPage\MyMasterDetailPage\obj\Debug\netstandard2.0\MyMasterDetailPage.csproj.CoreCompileInputs.cache
+D:\MyXamarin\Practics\MyMasterDetailPage\MyMasterDetailPage\MyMasterDetailPage\obj\Debug\netstandard2.0\MyMasterDetailPage.AssemblyInfoInputs.cache
+D:\MyXamarin\Practics\MyMasterDetailPage\MyMasterDetailPage\MyMasterDetailPage\obj\Debug\netstandard2.0\MyMasterDetailPage.AssemblyInfo.cs
+D:\MyXamarin\Practics\MyMasterDetailPage\MyMasterDetailPage\MyMasterDetailPage\obj\Debug\netstandard2.0\XamlC.stamp
+D:\MyXamarin\Practics\MyMasterDetailPage\MyMasterDetailPage\MyMasterDetailPage\obj\Debug\netstandard2.0\MyMasterDetailPage.dll
+D:\MyXamarin\Practics\MyMasterDetailPage\MyMasterDetailPage\MyMasterDetailPage\obj\Debug\netstandard2.0\MyMasterDetailPage.pdb
